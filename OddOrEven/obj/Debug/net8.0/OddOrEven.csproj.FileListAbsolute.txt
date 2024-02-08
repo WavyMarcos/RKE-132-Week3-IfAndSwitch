@@ -1,0 +1,14 @@
+C:\Users\marco\source\repos\Week3IfAndSwitch\OddOrEven\bin\Debug\net8.0\OddOrEven.exe
+C:\Users\marco\source\repos\Week3IfAndSwitch\OddOrEven\bin\Debug\net8.0\OddOrEven.deps.json
+C:\Users\marco\source\repos\Week3IfAndSwitch\OddOrEven\bin\Debug\net8.0\OddOrEven.runtimeconfig.json
+C:\Users\marco\source\repos\Week3IfAndSwitch\OddOrEven\bin\Debug\net8.0\OddOrEven.dll
+C:\Users\marco\source\repos\Week3IfAndSwitch\OddOrEven\bin\Debug\net8.0\OddOrEven.pdb
+C:\Users\marco\source\repos\Week3IfAndSwitch\OddOrEven\obj\Debug\net8.0\OddOrEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\source\repos\Week3IfAndSwitch\OddOrEven\obj\Debug\net8.0\OddOrEven.AssemblyInfoInputs.cache
+C:\Users\marco\source\repos\Week3IfAndSwitch\OddOrEven\obj\Debug\net8.0\OddOrEven.AssemblyInfo.cs
+C:\Users\marco\source\repos\Week3IfAndSwitch\OddOrEven\obj\Debug\net8.0\OddOrEven.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\Week3IfAndSwitch\OddOrEven\obj\Debug\net8.0\OddOrEven.dll
+C:\Users\marco\source\repos\Week3IfAndSwitch\OddOrEven\obj\Debug\net8.0\refint\OddOrEven.dll
+C:\Users\marco\source\repos\Week3IfAndSwitch\OddOrEven\obj\Debug\net8.0\OddOrEven.pdb
+C:\Users\marco\source\repos\Week3IfAndSwitch\OddOrEven\obj\Debug\net8.0\OddOrEven.genruntimeconfig.cache
+C:\Users\marco\source\repos\Week3IfAndSwitch\OddOrEven\obj\Debug\net8.0\ref\OddOrEven.dll
